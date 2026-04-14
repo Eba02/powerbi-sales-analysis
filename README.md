@@ -44,7 +44,7 @@ Les ventes évoluent dans le temps avec des variations, montrant des périodes d
 ### 📊 Ventes par catégorie
 ![Sales by Category](category_sales.png)
 
-La catégorie Technology génère le plus de chiffre d’affaires, tandis que la catégorie Furniture est la moins performante
+La catégorie Technology génère le plus de chiffre d’affaires, tandis que la catégorie Office Supplies présente la performance la plus faible.
 
 ### 🌍 Ventes par région
 ![Sales by Region](region_sales.png)
