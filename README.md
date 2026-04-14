@@ -34,6 +34,20 @@ Les données utilisées proviennent d’un dataset e-commerce contenant des info
 * La région **South** présente les performances les plus faibles
 * Les ventes évoluent dans le temps avec des variations notables
 
+##  Visualisations
+
+### 📈 Évolution des ventes
+![Sales Trend](sales_trend.png)
+
+### 📊 Ventes par catégorie
+![Sales by Category](category_sales.png)
+
+### 🌍 Ventes par région
+![Sales by Region](region_sales.png)
+
+### 🎛️ Dashboard
+![Dashboard](dashboard.png)
+
 ##  Recommandations
 
 * Renforcer les investissements sur les produits technologiques
