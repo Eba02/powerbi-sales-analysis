@@ -42,7 +42,7 @@ Les données utilisées proviennent d’un dataset e-commerce contenant des info
 Les ventes évoluent dans le temps avec des variations, montrant des périodes de hausse et de baisse.
 
 ### 📊 Ventes par catégorie
-![Sales by Category](category_sales.png)
+![Sales by Category](category_sale.png)
 
 La catégorie Technology génère le plus de chiffre d’affaires, tandis que la catégorie Office Supplies présente la performance la plus faible.
 
