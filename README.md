@@ -39,14 +39,21 @@ Les données utilisées proviennent d’un dataset e-commerce contenant des info
 ### 📈 Évolution des ventes
 ![Sales Trend](sales_trend.png)
 
+La catégorie Technology génère le plus de chiffre d’affaires, tandis que la catégorie Furniture est la moins performante.
+
 ### 📊 Ventes par catégorie
 ![Sales by Category](category_sales.png)
+
 
 ### 🌍 Ventes par région
 ![Sales by Region](region_sales.png)
 
+La région West est la plus performante, tandis que la région South présente le chiffre d’affaires le plus faible.
+
 ### 🎛️ Dashboard
 ![Dashboard](dashboard.png)
+
+Le dashboard permet une analyse globale des performances commerciales grâce à des indicateurs clés et des filtres interactifs.
 
 ##  Recommandations
 
